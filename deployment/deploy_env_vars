@@ -5,7 +5,7 @@ IMAGE_SCAN_SEVERITY=CRITICAL,HIGH
 API_GATEWAY_FQDN=http://user15.scg.msa.edutdc.com
 IMAGE_MANIFEST_DIR=buildfile
 PROJECT_DIR=.
-USE_ARGOCD=false
+USE_ARGOCD=true
 
 # ArgoCD 이용 시 
 GIT_ACCESS_CREDENTIAL=github_access_token_user15
